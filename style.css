@@ -78,7 +78,7 @@ li {
 }
 
 h1 {
-    color: greenyellow;
+    color:white;
     text-decoration: solid;
     font-size: xx-large;
     font-weight: 900;
@@ -116,7 +116,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-background-image: -webkit-linear-gradient(#11383f,#2c5e59);
+background: grey;
 }
 
 .section2-content {
